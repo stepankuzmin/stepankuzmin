@@ -2,7 +2,6 @@
 
 - I live in Helsinki, Finland 🇫🇮.
 - I'm an engineer at [Mapbox](https://mapbox.com/).
-- You can shoot me an email at [hello@stepankuzmin.com](mailto:hello@stepankuzmin.com).
 
 ```shell
 npx stepankuzmin
