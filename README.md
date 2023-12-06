@@ -1,5 +1,6 @@
 # Hello there 👋
 
+- My name is Stepan. 
 - I live in Helsinki, Finland 🇫🇮.
 - I'm an engineer at [Mapbox](https://mapbox.com/).
 
