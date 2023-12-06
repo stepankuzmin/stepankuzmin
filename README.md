@@ -2,7 +2,8 @@
 
 - My name is Stepan. 
 - I live in Helsinki, Finland 🇫🇮.
-- I'm an engineer at [Mapbox](https://mapbox.com/).
+- I'm software engineer at [Mapbox](https://mapbox.com/).
+- Previously CTO at [Urbica](https://urbica.io/en/), EM at [Yandex Go](https://go.yandex/).
 
 ```shell
 npx stepankuzmin
